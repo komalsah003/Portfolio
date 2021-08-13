@@ -131,7 +131,7 @@ width: auto;
 }
 main p{
     font-size: 3em;
-    font-family: 'Arial Narrow Bold', sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(209, 73, 39);
     position: relative;
 }
