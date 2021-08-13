@@ -195,8 +195,9 @@ text-align: center;
       text-align: center;
       height: 34px;
       font-family: 'Courier New', Courier, monospace;
-      background: rgb(190, 125, 39);
+      background: rgb(196, 113, 4);
       padding: 24px;
+      color: white;
       margin-bottom: 4px;
   }
 
