@@ -132,7 +132,7 @@ width: auto;
 main p{
     font-size: 3em;
     font-family: 'Arial Narrow Bold', sans-serif;
-    color: rgb(247, 249, 252);
+    color: rgb(209, 73, 39);
     position: relative;
 }
 
@@ -169,6 +169,7 @@ img {
     font-size: 34px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
+    color: rgb(180, 13, 63);
 }
 
 .card {
