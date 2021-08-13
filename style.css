@@ -72,6 +72,9 @@ body{
         justify-content: space-between;
         width: auto;
     }
+    main p{
+        font-size: 10px;
+    }
     .container p{
         font-size: 10px;
     }
