@@ -195,7 +195,7 @@ text-align: center;
       text-align: center;
       height: 34px;
       font-family: 'Courier New', Courier, monospace;
-      background: rgb(23, 6, 177);
+      background: rgb(46, 27, 216);
       padding: 24px;
       color: white;
       margin-bottom: 4px;
@@ -204,7 +204,7 @@ text-align: center;
 .box{
     width: 350px;
     height: 10px;
-    background: rgb(173, 110, 110);
+    /* background: rgb(173, 110, 110); */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -278,7 +278,7 @@ transform: scale(1.05,1.2);
 }
 
 .icon:hover{
-    background: #e60073;
+    background: #db4b12;
     box-shadow: 0 0 20px #e60073;
 }
 
@@ -302,7 +302,6 @@ transform: scale(1.05,1.2);
     position: absolute;
     top: 50%;
     left: 50%;
-
     transform: translate(-50%,-50%);
 }
 
