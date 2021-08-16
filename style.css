@@ -323,7 +323,7 @@ svg circle{
 
 footer{
     padding: 17px;
-    background-color: rgb(17, 12, 12);
+    /* background-color: rgb(17, 12, 12); */
 }
 
 footer p{
