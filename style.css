@@ -31,9 +31,12 @@ body{
     float: left;
     text-align: center;
     padding: 22px;
-    color: rgb(250, 246, 246);
+    color: rgb(14, 10, 13);
     text-decoration: none;
     font-size: 17px;
+  }
+  .navbar a i{
+      color: rgb(53, 53, 56);
   }
   
   .navbar a:hover {
