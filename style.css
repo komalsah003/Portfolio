@@ -31,12 +31,12 @@ body{
     float: left;
     text-align: center;
     padding: 22px;
-    color: rgb(14, 10, 13);
+    /* color: rgb(134, 52, 114); */
     text-decoration: none;
     font-size: 17px;
   }
   .navbar a i{
-      color: rgb(53, 53, 56);
+      color: rgb(39, 39, 41);
   }
   
   .navbar a:hover {
