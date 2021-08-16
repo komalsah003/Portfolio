@@ -68,7 +68,7 @@ body{
     }
     .container .card{
         justify-content: space-between;
-        width: auto;
+        width: 500px;
     }
     main p{
         font-size: 10px;
