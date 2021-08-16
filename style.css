@@ -62,9 +62,6 @@ body{
         height: 506px;
         flex-direction: column;
     }
-    .container .card{
-        margin-left: 32px;
-    }
     .links{
         margin-left: 42px;
     }
@@ -102,9 +99,14 @@ body{
 width: 500px;
     }
   }
+  /* @media screen and (max-width: 700px) and (min-width: 501px){
+      .links{
+          margin-left: 345px;
+      }
+      
+  } */
 
-
-  @media screen and (max-width: 900px) and (min-width: 500px){
+  @media screen and (min-width: 500px) and (max-width: 900px){
       body{
         margin-left: 5%;
         margin-right: 5%;
@@ -123,7 +125,7 @@ width: 500px;
       }
      
       .container{
-          width: 600px;
+          width: max-content;
       }
       .square{
           width:1090px;
