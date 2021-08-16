@@ -28,7 +28,7 @@ body{
     padding: 22px;
     text-decoration: none;
     font-size: 17px;
-    columns: rgb(26, 136, 4);
+    color: rgb(8, 0, 0);
   }
   .navbar a i{
       color: rgb(39, 39, 41);
