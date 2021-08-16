@@ -94,9 +94,9 @@ body{
         float: none;
         height: min-content;
     }
-    footer p{
+    footer {
 /* display: block; */
-width: auto;
+width: 500px;
     }
   }
   @media screen and (max-width: 900px) and (min-width: 500px){
@@ -113,6 +113,9 @@ width: auto;
     .navbar a {
         float: none;
         display: block;
+      }
+      footer{
+          width: 1200px;
       }
   }
  main{
@@ -153,7 +156,7 @@ main p{
     transition: all .4s;
 } */
 
-p:hover::before{
+/* p:hover::before{
     transform: translate(-5px,-5px);
     text-shadow: 4px 4px 20px #ff0101;
 }
@@ -161,7 +164,7 @@ p:hover::before{
 p:hover::after{
     transform: translate(5px,5px);
     text-shadow: 4px 4px 20px #351fff;
-}
+} */
 
 img {
     float: left; 
