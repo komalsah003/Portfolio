@@ -8,8 +8,6 @@
 
 body{
     font-family: 'Baloo Bhai 2', cursive;
-    margin-left: 5%;
-    margin-right: 5%;
 }
 .navbar {
     width: 100%;
@@ -98,6 +96,10 @@ width: 500px;
     }
   }
   @media screen and (max-width: 900px) and (min-width: 500px){
+      body{
+        margin-left: 5%;
+        margin-right: 5%;
+      }
     .container .card{
       padding: 45px;
       width: 100%;
