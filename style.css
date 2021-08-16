@@ -62,6 +62,9 @@ body{
         height: 506px;
         flex-direction: column;
     }
+    .container .card{
+        margin-left: 32px;
+    }
     .links{
         margin-left: 42px;
     }
