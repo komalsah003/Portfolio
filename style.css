@@ -23,6 +23,7 @@ body{
   
   .navbar a {
     float: left;
+    font-family: 'Times New Roman', Times, serif;
     text-align: center;
     padding: 22px;
     text-decoration: none;
