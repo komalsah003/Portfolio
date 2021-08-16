@@ -28,6 +28,7 @@ body{
     padding: 22px;
     text-decoration: none;
     font-size: 17px;
+    columns: rgb(26, 136, 4);
   }
   .navbar a i{
       color: rgb(39, 39, 41);
@@ -36,6 +37,7 @@ body{
   .navbar a:hover {
     /* background-color: rgb(19, 161, 114); */
     border-radius: 89rem;
+    color: red;
     /* border: 1px dashed red; */
   }
 
