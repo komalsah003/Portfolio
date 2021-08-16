@@ -33,9 +33,9 @@ body{
   }
   
   .navbar a:hover {
-    background-color: rgb(19, 161, 114);
+    /* background-color: rgb(19, 161, 114); */
     border-radius: 89rem;
-    border: 1px solid red;
+    /* border: 1px dashed red; */
   }
 
   .active {
@@ -60,6 +60,9 @@ body{
         width: 79%;
         height: 506px;
         flex-direction: column;
+    }
+    .links{
+        margin-left: 42px;
     }
     
     img{
@@ -95,6 +98,8 @@ body{
 width: 500px;
     }
   }
+
+
   @media screen and (max-width: 900px) and (min-width: 500px){
       body{
         margin-left: 5%;
